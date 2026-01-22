@@ -27,9 +27,9 @@ author:
   location         : "广东 深圳"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : 
+  email            : zhouyou2023@email.szu.edu.cn
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,11 +37,9 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
-  google_plus      :
-  keybase          :
+  github           : 
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
@@ -58,6 +56,15 @@ author:
   youtube          :
   wikipedia        :
 
+  # 👇 这里是您自定义的知乎和B站链接（格式已修正）
+  links:
+    - label: "知乎"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.zhihu.com/people/zhou-you-123"
+  
+    - label: "Bilibili"
+      icon: "fas fa-fw fa-tv"
+      url: "https://space.bilibili.com/437303967"
 
 # Reading Files
 include:

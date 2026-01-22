@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 大家好，我是深圳大学数学科学学院数学与应用数学专业的一名本科在读学生。
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
 
-我的研究领域包括：
+我目前感兴趣的研究领域包括：
 - 双曲守恒律
 - 流体力学中的偏微分方程
+- 复分析与几何
   
 
 
@@ -43,7 +43,7 @@ redirect_from:
 - 2024.5 美国大学生数学建模竞赛F（特等提名）奖
 - 2024.11 全国大学生数学竞赛广东省二等奖
 - 2025.6 深圳杯数学建模竞赛二等奖
-- 2025.10 全国大学生数学建模竞赛广东省一等奖
+- 2025.10 全国大学生数学建模竞赛广东省二等奖
 - 2025.11 全国大学生数学竞赛广东省一等奖
 - 2025.12 深圳大学24-25年度鹏程奖学金（年级第一名）
 
