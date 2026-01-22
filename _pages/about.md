@@ -36,16 +36,16 @@ redirect_from:
 
 # 📝 论文专利
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
-
+-	暂无
 
 
 # 🏅 荣誉奖项
 - 2024.5 美国大学生数学建模竞赛F（特等提名）奖
 - 2024.11 全国大学生数学竞赛广东省二等奖
-- 2024.10 全国大学生数学建模竞赛广东省一等奖
+- 2025.6 深圳杯数学建模竞赛二等奖
+- 2025.10 全国大学生数学建模竞赛广东省一等奖
 - 2025.11 全国大学生数学竞赛广东省一等奖
+- 2025.12 深圳大学24-25年度鹏程奖学金（年级第一名）
 
 
 <span class='anchor' id='-xshy'></span>
@@ -53,7 +53,8 @@ redirect_from:
 # 🏛️ 学术交流与会议
 - 2024.8 新加坡南洋理工大学访学小组报告，并获一等奖
 - 2024.11 首届深圳大学卓越班论坛报告，并获一等奖
-- 2025.5 南方科技大学访学并作报告
--
+- 2025.4 南方科技大学访学并作报告
+- 2025.5 厦门大学＆福建师范大学访学并作报告
+
 
 <span class='anchor' id='-gzsx'></span>
