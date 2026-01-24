@@ -28,7 +28,7 @@ author:
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : 
-  email            : zhouyou2023@email.szu.edu.cn
+  email            : "zhouyou2023@email.szu.edu.cn"
   researchgate     : 
   uri              : 
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : #"https://orcid.org/0000-0001-9658-209X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -60,11 +60,11 @@ author:
   links:
     - label: "知乎"
       icon: "fas fa-fw fa-book"
-      url: "https://www.zhihu.com/people/zhou-you-123"
+      url: "https://www.zhihu.com/people/rex-65-84-55"
   
     - label: "Bilibili"
       icon: "fas fa-fw fa-tv"
-      url: "https://space.bilibili.com/437303967"
+      url: "https://space.bilibili.com/309456217"
 
 # Reading Files
 include:
